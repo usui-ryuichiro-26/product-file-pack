@@ -1,7 +1,19 @@
 {
+    "directories": {
+        "./": {
+            "files": [
+                "a.txt"
+            ],
+            "b/": {
+                "files": [
+                    "b.json"
+                ]
+            }
+        }
+    },
     "files": [
         {
-            "path": "./.",
+            "path": "./",
             "name": "a.txt",
             "body": "Hello.\nLet me pack!\n"
         },
