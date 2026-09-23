@@ -1,5 +1,8 @@
 #!/usr/bin/env python3
 
+# Copyright (c) 2026 Usui Ryuichiro
+# SPDX-License-Identifier: MIT
+
 import argparse
 import json
 import os

@@ -1,5 +1,0 @@
-cd product-files-packer/
-
-python3 ./apps/packer ./demo/1_original ./demo/2_packed/packed.json
-
-python3 ./apps/unpacker ./demo/2_packed/packed.json ./demo/3_unpacked
